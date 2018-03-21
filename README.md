@@ -1,7 +1,7 @@
 # An Assembly Version of the Chrome Dino Game
 _A replica of the classic Chrome Dino Game done in Assembly!_
 
-Developed with [MASM32](http://masm32.com/)   
+Using [MASM32](http://masm32.com/) for the assembler   
 Run game from game.exe  
 
 ![demo0](https://github.com/cfgong/assembly-chrome-dino/blob/master/demo/demo0.gif)
